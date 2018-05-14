@@ -1,9 +1,10 @@
-Sample widget for Product Platform
-This widget is created to test the process of defining and publishing widgets in Admin Panel
+# widget-vue
 
-New line
+> A Vue.js project
 
-Build Setup
+## Build Setup
+
+``` bash
 # install dependencies
 npm install
 
@@ -15,3 +16,6 @@ npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).

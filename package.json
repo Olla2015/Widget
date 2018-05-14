@@ -1,8 +1,7 @@
 {
-  "name": "olya-sample-widget",
+  "name": "domain-olla",
   "version": "1.0.0",
-  "description": "Sample Widget Description",
-  "author": "Anton Zolotukhin <anton.zolotukhin@namecheap.com>",
+  "description": "A Vue.js project",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --host 0.0.0.0 --config build/webpack.dev.conf.js",
